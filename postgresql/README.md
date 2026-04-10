@@ -25,6 +25,6 @@ To install the database, you can follow the same instructions from the first PL 
 
 ## Authors
 
-* SGD 2021 Team
+* SGD 2026 Team
 * University of Coimbra
 
