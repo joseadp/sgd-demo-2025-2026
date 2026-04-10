@@ -52,6 +52,6 @@ This link may be useful: https://stackoverflow.com/questions/66888087/cannot-ins
 
 
 ## Authors
-* SGD 2024 Team
+* SGD 2026 Team
 * University of Coimbra
 
