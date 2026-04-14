@@ -1,6 +1,6 @@
 /* 
 	# 
-	# Sistema de Gestão de Dados 2024/2025
+	# Sistema de Gestão de Dados 2025/2026
 	# Trabalho Prático
 	#
 */
@@ -56,8 +56,6 @@ ALTER TABLE emp ADD CONSTRAINT emp_fk2 FOREIGN KEY (ndep) REFERENCES dep(ndep);
 
 
 
-
-
 /* 
    Fazer copy-paste deste ficheiro
    para o SQL Editor do PgAdmin e executar (F5).
@@ -103,12 +101,8 @@ INSERT INTO emp VALUES(1934, 'Olga Costa',     'Continuo'    ,1782, '1986-06-22'
 INSERT INTO emp VALUES(1369, 'Antonio Silva',  'Continuo'    ,1902, '1996-12-22',  70800,  NULL, 20);
 
 
-
-
 INSERT INTO descontos VALUES (1, 55000, 99999);
 INSERT INTO descontos VALUES (2, 100000, 210000);
 INSERT INTO descontos VALUES (3, 210001, 350000);
 INSERT INTO descontos VALUES (4, 350001, 550000);
 INSERT INTO descontos VALUES (5, 550001, 9999999);
-
-
