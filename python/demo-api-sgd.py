@@ -1,7 +1,7 @@
 ##
 ## =============================================
 ## ======== Sistema de Gestão de Dados =========
-## ============== LECD  2024/2025 ==============
+## ============= LIACD  2025/2026 ==============
 ## =============================================
 ## =================== Demo ====================
 ## =============================================
@@ -12,7 +12,7 @@
 ##
 ## Authors: 
 ##   José D'Abruzzo Pereira <josep@dei.uc.pt>
-##   Gonçalo Carvalho <gcarvalho@dei.uc.pt>
+##   Iury Araújo <iuryrogerio@dei.uc.pt>
 ##   University of Coimbra
 
 
@@ -21,9 +21,8 @@ How to run?
 $ python3 -m venv proj_sgd_env
 $ source proj_sgd_env/bin/activate
 $ pip3 install flask
-$ pip3 install jwt
 $ pip3 install psycopg2-binary
-$ python3 demo-api.py
+$ python3 demo-api-sgd.py
 --> Ctrl+C to stop
 $ deactivate
 '''

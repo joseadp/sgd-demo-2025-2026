@@ -7,7 +7,6 @@ You can install virtualenv, and the corresponding libraries with the following c
 $ python3 -m venv proj_sgd_env # the name of the virtualenv is proj_sgd_env, but you can change it
 $ source proj_sgd_env/bin/activate
 $ pip3 install flask
-$ pip3 install jwt
 $ pip3 install psycopg2-binary
 $ python3 demo-api-sgd.py # this command is to run the flask application
 --> Ctrl+C to stop
